@@ -1,0 +1,36 @@
+body {
+    background-image:url('/images/background.jpg');
+    background-size:auto;
+    background-repeat: no-repeat;
+}
+
+#button-anasayfa {
+    position: relative;
+    top:100px ;
+    left:650px;
+    border-style:hidden;
+    border-radius: 20%;
+    background-color:navajowhite;
+
+}
+
+#logo-instagram {
+    position: relative;
+    top:600px;
+    height: 64px; 
+    width: 64px;
+}
+#logo-tell {
+    position: relative;
+    top:600px;
+    left:100px;
+    height: 64px; 
+    width: 64px;
+}
+#logo-mail {
+    position: relative;
+    top:600px;
+    left: 200px;
+    height: 64px; 
+    width: 64px;
+}

@@ -1,0 +1,38 @@
+body {
+    background-image:url('/images/background.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    
+}
+
+#ana-baslık {
+    text-align: center;
+    color: slategray;
+    font-family: serif;
+    font-size: x-large;
+}
+#sayfa-linkleri {
+    text-align: center;
+    color: slategray;
+    font-size: large;
+}
+
+#button {
+    border-style:hidden;
+    border-radius: 20%;
+    background-color:navajowhite;
+    
+    
+
+}
+
+#hakkımda {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: larger;
+}
+#gif {
+    align-items: center; 
+    height: 200px;;
+    width: 157px;;
+}
